@@ -116,7 +116,7 @@ void mafia(int wd, int pp, string peace[], string world[], int mf) {
   } 
 }
 int main(){
-    cout <<" Game started! You are the presenter, and fate of the town is in your arms! Who now, who will conquer the management in the town? mafia or civillians? \n ENTER QUANTITY OF PLAYERS TO CONTINUE \n\n\n\n";
+    cout <<" Game started! You are the presenter, and fate of the town is in your arms! Who now, who will conquer the management in the town? mafia or civillians? \n\n ENTER QUANTITY OF PLAYERS TO CONTINUE>";
     system("pause");
     int players; 
     cin >> players;
